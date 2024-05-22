@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yo\\Desktop\\PersonalFInanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1A4055-170D-4101-9542-D8D570BDCD8A}|Okane.Application\\Okane.Application.csproj|c:\\users\\yo\\desktop\\personalfinanceapp\\okane.application\\expenses\\byid\\getexpensebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1A4055-170D-4101-9542-D8D570BDCD8A}|Okane.Application\\Okane.Application.csproj|solutionrelative:okane.application\\expenses\\byid\\getexpensebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetExpenseByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yo\\Desktop\\PersonalFInanceApp\\Okane.Application\\Expenses\\ById\\GetExpenseByIdHandler.cs",
+              "RelativeDocumentMoniker": "Okane.Application\\Expenses\\ById\\GetExpenseByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Yo\\Desktop\\PersonalFInanceApp\\Okane.Application\\Expenses\\ById\\GetExpenseByIdHandler.cs",
+              "RelativeToolTip": "Okane.Application\\Expenses\\ById\\GetExpenseByIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:10:55.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
